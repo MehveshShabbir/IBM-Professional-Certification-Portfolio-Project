@@ -16,7 +16,7 @@ Please note that any credentials provided in the files (`index.html`) are dummy 
 
 To view the website, open the `index.html` file in a web browser.
 
-To view the website online, you can also visit my GitHub Pages link: [GitHub Pages](https://your-github-username.github.io/your-repo-name/)
+To view the website online, you can also visit my GitHub Pages link: [GitHub Pages](https://mehveshshabbir.github.io/IBM-Professional-Certification-Portfolio-Project/)
 
 ## License
 
